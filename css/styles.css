@@ -351,7 +351,7 @@ h2 {
     border-radius: 0px 0px 4px 4px;}
     .services-offered:hover .services-offered-image-caption{
     box-shadow: 0px 10px 10px 0px rgba(46, 47, 66, 0.08), 0px 15px 20px 0px rgba(46, 47, 66, 0.16), 0px 10px 20px 0px rgba(46, 47, 66, 0.08);
-    opacity: .75;
+    opacity: .9;
 }
 
 .services-offered-image {
@@ -368,6 +368,8 @@ h2 {
     top: 0;
     left: 0;
     opacity: 0;
+    margin-bottom: 0;
+    margin-top: 0;
     
     
     
